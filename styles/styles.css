@@ -1,0 +1,26 @@
+.homebg {
+    background-color: lightgray
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: navy;
+}
+
+a{
+    color: teal;
+    text-decoration: none;
+}
+
+a:visited {
+    color: darkgreen;
+}
+
+.listheading {
+    font-weight: bold;
+    color: black;
+}
+
+li {
+    font-weight: normal;
+}
